@@ -11,7 +11,7 @@ const SectionTwo = () => {
           mobile app and save them to a note.
         </p>
         <div>
-          <button className="bg-primary-color-two rounded-md p-2 text-sm">
+          <button className="bg-primary-color-two rounded-md p-2 text-sm text-white">
             Get Started
           </button>
         </div>

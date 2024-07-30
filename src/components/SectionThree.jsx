@@ -16,7 +16,7 @@ const SectionThree = () => {
           with others.
         </p>
         <div>
-          <button className="bg-primary-color-two rounded-md p-2 text-sm">
+          <button className="bg-primary-color-two rounded-md p-2 text-sm text-white">
             Try it now
           </button>
         </div>
